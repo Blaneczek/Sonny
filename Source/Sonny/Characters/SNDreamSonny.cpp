@@ -112,6 +112,11 @@ void ASNDreamSonny::Move(const FInputActionValue& Value)
 
 void ASNDreamSonny::Look(const FInputActionValue& Value)
 {
+	if (bLineMode)
+	{
+		return;
+	}
+
 	// input is a Vector2D
 	FVector2D LookAxisVector = Value.Get<FVector2D>();
 
