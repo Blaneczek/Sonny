@@ -6,7 +6,7 @@ Sonny is a strategic action adventure game developed on Unreal Engine 5 in which
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/b4eb4c21-b9d2-456f-83a1-9d26901b3257" />
 
 
-Below you can find a video that showcases the game.
+Below you can find a video that showcases the game in detail.
 </br>https://www.youtube.com/watch?v=pZmEEQFOl2g
 </br>[![GAMEPLAY](https://img.youtube.com/vi/pZmEEQFOl2g/0.jpg)](https://www.youtube.com/watch?v=pZmEEQFOl2g)
 
