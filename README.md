@@ -1,8 +1,9 @@
 <sub>Unreal Engine version 5.5</sub>
 # Sonny
 Sonny is a strategic action adventure game developed on Unreal Engine 5 in which you play as a robot who just become self aware. The gameplay features 2 main mechanics that are designed to test your skill and strategic thinking.
+
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/5113298d-80e3-42af-bba2-36546a45e870" />
-![image10](https://github.com/user-attachments/assets/b4eb4c21-b9d2-456f-83a1-9d26901b3257)
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/b4eb4c21-b9d2-456f-83a1-9d26901b3257" />
 
 
 Below you can find a video that showcases the game.
